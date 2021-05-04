@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a2c46c862a44ae4b9992215a52426e4, type: 3}
+  m_Name: Sports
+  m_EditorClassIdentifier: 
+  MaxTradeRange:
+    Min: 4
+    Max: 12
+  PriceFluctuationRange:
+    Min: -10
+    Max: 10
+  WantedItems:
+  - {fileID: 11400000, guid: 567b6784c4bd8904fb7c9dbdc7bc0e66, type: 2}
+  - {fileID: 11400000, guid: 9460d3f1abe0c6f4d820b4140357b1eb, type: 2}
+  - {fileID: 11400000, guid: 07e4e1fdb35060d4194463c12eb107ff, type: 2}
+  - {fileID: 11400000, guid: cd2723153e2b1f247876fc252a079891, type: 2}
+  - {fileID: 11400000, guid: 6ac7316e171953b45b1fb3695499583e, type: 2}
+  TradedItems:
+  - {fileID: 11400000, guid: eeda00323db9097459ed69dae1c90090, type: 2}
+  - {fileID: 11400000, guid: 6791b7bf54e43044aa5de8a98a2ce68c, type: 2}
+  - {fileID: 11400000, guid: 824eb3c0675123f4297e47bc7881998d, type: 2}
+  - {fileID: 11400000, guid: 97050190f10bc7f4a9ea1757cd27e990, type: 2}
+  - {fileID: 11400000, guid: dfa2a3d952a624443b3453720efe7882, type: 2}

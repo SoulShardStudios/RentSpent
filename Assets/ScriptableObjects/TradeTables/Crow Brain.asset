@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a2c46c862a44ae4b9992215a52426e4, type: 3}
+  m_Name: Crow Brain
+  m_EditorClassIdentifier: 
+  MaxTradeRange:
+    Min: 4
+    Max: 20
+  PriceFluctuationRange:
+    Min: -5
+    Max: 15
+  MaxPriceRange:
+    Min: 0
+    Max: 0
+  WantedItems:
+  - {fileID: 11400000, guid: 6066b8f708b3b7c488c52844cd92cda1, type: 2}
+  - {fileID: 11400000, guid: 7fe17c98a97ea9f41856e849537afd12, type: 2}
+  - {fileID: 11400000, guid: 7d5ec1a8704a8d24290e7b4dcd3cce5d, type: 2}
+  - {fileID: 11400000, guid: e7aa6e9dcc7c9424eba3bfe989958982, type: 2}
+  - {fileID: 11400000, guid: d5e929fef072da94c85df6f7e262a631, type: 2}
+  TradedItems:
+  - {fileID: 11400000, guid: 97050190f10bc7f4a9ea1757cd27e990, type: 2}
+  - {fileID: 11400000, guid: 58cfd516f79c67b4fa52129b8e3e61cc, type: 2}
+  - {fileID: 11400000, guid: cd2723153e2b1f247876fc252a079891, type: 2}
+  - {fileID: 11400000, guid: 82a20c90704f3214cb5a8884c8a0dda5, type: 2}
+  - {fileID: 11400000, guid: 6791b7bf54e43044aa5de8a98a2ce68c, type: 2}

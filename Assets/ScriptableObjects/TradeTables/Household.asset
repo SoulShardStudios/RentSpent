@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a2c46c862a44ae4b9992215a52426e4, type: 3}
+  m_Name: Household
+  m_EditorClassIdentifier: 
+  MaxTradeRange:
+    Min: 4
+    Max: 18
+  PriceFluctuationRange:
+    Min: -10
+    Max: 10
+  WantedItems:
+  - {fileID: 11400000, guid: d5e929fef072da94c85df6f7e262a631, type: 2}
+  - {fileID: 11400000, guid: 82a20c90704f3214cb5a8884c8a0dda5, type: 2}
+  - {fileID: 11400000, guid: eeda00323db9097459ed69dae1c90090, type: 2}
+  - {fileID: 11400000, guid: cdd43a791e0ce0b4b8cd43313acfc4f9, type: 2}
+  - {fileID: 11400000, guid: 9a6a94f91b974034e9a41962f4f1417e, type: 2}
+  - {fileID: 11400000, guid: dfa2a3d952a624443b3453720efe7882, type: 2}
+  TradedItems:
+  - {fileID: 11400000, guid: ba8c686b241a7ed45abeeaac0e906b24, type: 2}
+  - {fileID: 11400000, guid: 58cfd516f79c67b4fa52129b8e3e61cc, type: 2}
+  - {fileID: 11400000, guid: 567b6784c4bd8904fb7c9dbdc7bc0e66, type: 2}
+  - {fileID: 11400000, guid: 07e4e1fdb35060d4194463c12eb107ff, type: 2}
+  - {fileID: 11400000, guid: 6791b7bf54e43044aa5de8a98a2ce68c, type: 2}
+  - {fileID: 11400000, guid: 99b9ce5070264c848b06be3f3d3b06c2, type: 2}
+  - {fileID: 11400000, guid: cd2723153e2b1f247876fc252a079891, type: 2}

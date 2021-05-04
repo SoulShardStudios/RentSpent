@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a2c46c862a44ae4b9992215a52426e4, type: 3}
+  m_Name: Witchy
+  m_EditorClassIdentifier: 
+  MaxTradeRange:
+    Min: 2
+    Max: 10
+  PriceFluctuationRange:
+    Min: -3
+    Max: 6
+  WantedItems:
+  - {fileID: 11400000, guid: 6066b8f708b3b7c488c52844cd92cda1, type: 2}
+  - {fileID: 11400000, guid: 97050190f10bc7f4a9ea1757cd27e990, type: 2}
+  - {fileID: 11400000, guid: d5e929fef072da94c85df6f7e262a631, type: 2}
+  - {fileID: 11400000, guid: 04445b6ba319ae7478392425e5da0ddb, type: 2}
+  - {fileID: 11400000, guid: 7fe17c98a97ea9f41856e849537afd12, type: 2}
+  - {fileID: 11400000, guid: 65a479a44e190794abed0a48a1aca21d, type: 2}
+  TradedItems:
+  - {fileID: 11400000, guid: 4b815130551e85d4d8aee47981d26343, type: 2}
+  - {fileID: 11400000, guid: ba8c686b241a7ed45abeeaac0e906b24, type: 2}
+  - {fileID: 11400000, guid: 99b9ce5070264c848b06be3f3d3b06c2, type: 2}
+  - {fileID: 11400000, guid: 7d5ec1a8704a8d24290e7b4dcd3cce5d, type: 2}

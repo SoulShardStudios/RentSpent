@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a2c46c862a44ae4b9992215a52426e4, type: 3}
+  m_Name: Crisis
+  m_EditorClassIdentifier: 
+  MaxTradeRange:
+    Min: 1
+    Max: 1
+  PriceFluctuationRange:
+    Min: 0
+    Max: 50
+  WantedItems:
+  - {fileID: 11400000, guid: 76864585c03a14546974ef1bce1c84bc, type: 2}
+  TradedItems:
+  - {fileID: 11400000, guid: 9460d3f1abe0c6f4d820b4140357b1eb, type: 2}
+  - {fileID: 11400000, guid: f2b3583986222d949a5a746b7a7b56ad, type: 2}
+  - {fileID: 11400000, guid: 739754dfa62b2f1469a3bab25e3b7448, type: 2}
+  - {fileID: 11400000, guid: 6ac7316e171953b45b1fb3695499583e, type: 2}
+  - {fileID: 11400000, guid: 04445b6ba319ae7478392425e5da0ddb, type: 2}

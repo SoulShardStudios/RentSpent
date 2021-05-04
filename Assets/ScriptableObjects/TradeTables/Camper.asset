@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a2c46c862a44ae4b9992215a52426e4, type: 3}
+  m_Name: Camper
+  m_EditorClassIdentifier: 
+  MaxTradeRange:
+    Min: 6
+    Max: 17
+  PriceFluctuationRange:
+    Min: -10
+    Max: 5
+  WantedItems:
+  - {fileID: 11400000, guid: c9097aa990efa7f47bf38301983d17d6, type: 2}
+  - {fileID: 11400000, guid: d5e929fef072da94c85df6f7e262a631, type: 2}
+  - {fileID: 11400000, guid: 04445b6ba319ae7478392425e5da0ddb, type: 2}
+  - {fileID: 11400000, guid: 824eb3c0675123f4297e47bc7881998d, type: 2}
+  - {fileID: 11400000, guid: f2b3583986222d949a5a746b7a7b56ad, type: 2}
+  - {fileID: 11400000, guid: 6791b7bf54e43044aa5de8a98a2ce68c, type: 2}
+  TradedItems:
+  - {fileID: 11400000, guid: 6066b8f708b3b7c488c52844cd92cda1, type: 2}
+  - {fileID: 11400000, guid: 7fe17c98a97ea9f41856e849537afd12, type: 2}
+  - {fileID: 11400000, guid: 739754dfa62b2f1469a3bab25e3b7448, type: 2}
+  - {fileID: 11400000, guid: cdd43a791e0ce0b4b8cd43313acfc4f9, type: 2}
+  - {fileID: 11400000, guid: 7d5ec1a8704a8d24290e7b4dcd3cce5d, type: 2}
