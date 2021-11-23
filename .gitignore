@@ -1,7 +1,7 @@
 [Tt]esting
 [Tt]esting.meta
-TextMeshPro
-TextMeshPro.meta
+**/.[Tt]ext[Mm]esh[Pp]ro
+**/.[Tt]ext[Mm]esh[Pp]ro.meta
 
 
 # This .gitignore file should be placed at the root of your Unity project directory
